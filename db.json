@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "name": "Myra",
+      "id": 1
+    },
+    {
+      "name": "Mr. Willard Davis DDS",
+      "id": 2
+    },
+    {
+      "name": "Ms. Donna Beatty",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "title": "et vero nostrum tempora consequatur voluptatem adipisci",
+      "id": 2,
+      "userId": 2
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Soft Shirt",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Car",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Metal Bacon",
+      "id": 7
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 6,
+      "url": "https://picsum.photos/seed/0FWBBUMYzj/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 6,
+      "url": "https://picsum.photos/seed/yO7pKoMoR/640/480",
+      "id": 3
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/640/480?lock=7676352163479552",
+      "id": 4
+    },
+    {
+      "albumId": 7,
+      "url": "https://loremflickr.com/640/480?lock=426883512532992",
+      "id": 7
+    },
+    {
+      "albumId": 7,
+      "url": "https://picsum.photos/seed/9yxgo8L/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 6,
+      "url": "https://picsum.photos/seed/wT0n0h/640/480",
+      "id": 9
+    }
+  ]
+}
